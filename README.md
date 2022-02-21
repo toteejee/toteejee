@@ -1,1 +1,1 @@
-Welocme
+Welcome
