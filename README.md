@@ -1,4 +1,4 @@
 Welcome To TeeJee Repositories
 
 
-![GitHub Logo](Teejee Logo.png)
+![GitHub Logo](TeejeeLogo.png)
